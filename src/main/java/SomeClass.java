@@ -3,6 +3,6 @@
  */
 public class SomeClass {
     public int comeMethod(int arg1, int arg2) {
-        return arg1 + arg2 + 1;
+        return arg1 + arg2;
     }
 }
